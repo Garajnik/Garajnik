@@ -29,6 +29,6 @@ And they call me:
 
 - Cooking enthusiast 🍳
 
-- Snowboard lover 🏂
+- Snowboarding 🤘🤘 🏂
 
 - RU/EN 🇷🇺🇬🇧
