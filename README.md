@@ -1,4 +1,4 @@
-# 👋 Hi, this is me 👉 **Leonid ( _Garaj_ )**
+# Helo (❁´◡`❁)
 
 And they call me:
 > **Full-stack Developer** with a passion for crafting intuitive designs and functional apps.
