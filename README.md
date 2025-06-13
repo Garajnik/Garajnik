@@ -1,7 +1,10 @@
 # Helo (❁´◡`❁)
 
-And they call me:
-> **Full-stack Developer** with a passion for crafting intuitive designs and functional apps.
+What do I do:
+> Web Development
+> Game Design
+> 3D Art
+> Stuff that I like
 
 ## Socials 🕹️
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/garajnik/)
