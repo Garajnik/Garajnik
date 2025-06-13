@@ -1,10 +1,10 @@
-# Helo (❁´◡`❁)
+# Helo (¬‿¬)
 
 What do I do:
-> Web Development
-> Game Design
-> 3D Art
-> Stuff that I like
+- Web Development <br>
+- Game Design <br>
+- 3D Art <br>
+- Stuff that I like
 
 ## Socials 🕹️
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/garajnik/)
