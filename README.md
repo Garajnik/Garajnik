@@ -30,6 +30,7 @@ What do I do:
 ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) _To be extended_...
 
+## Also...
 - Cooking enthusiast 🍳
 
 - Snowboarding 🤘🤘 🏂
