@@ -1,6 +1,6 @@
 # Helo (¬‿¬)✌️
 
-What do I do:
+What I do:
 - Web Development <br>
 - Game Design <br>
 - 3D Art <br>
