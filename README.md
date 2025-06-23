@@ -1,4 +1,4 @@
-# Helo (¬‿¬)✌️
+# Hello (¬‿¬)✌️
 
 What I do:
 - Web Development <br>
