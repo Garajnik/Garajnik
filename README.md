@@ -1,6 +1,6 @@
 # Bonkers dude. ( ͡° ᴥ ͡°)
 
-My belowed garbage:
+My belowed garbage cans:
 - Web Dev <br>
 - Game Design (AKA Game Dev) <br>
 - 3D Art <br>
