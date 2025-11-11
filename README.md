@@ -1,6 +1,6 @@
 # Bonkers dude. ( ͡° ᴥ ͡°)
 
-My belowed garbage cans:
+Can do:
 - Web Dev <br>
 - Game Design (AKA Game Dev) <br>
 - 3D Art <br>
