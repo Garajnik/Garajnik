@@ -1,17 +1,18 @@
-# Bonkers dude. ( ͡° ᴥ ͡°)
+# Hi, this is me -> ( ͡° ᴥ ͡°)
+> RU/EN
 
-Can do:
-- Web Dev <br>
-- Game Design (AKA Game Dev) <br>
-- 3D Art <br>
+## What do I do:
+- Web Dev 🕸 <br>
+- Game Design 🎮 <br>
+- 3D Art 🍩 <br>
 
-## Socials 🕹️
+## Socials
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/garajnik/)
 [![Steam](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gamedevgaraj)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/garajnik_)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ](https://open.spotify.com/user/vsbpdh7ayi3silu1cb6iym8z7?si=e681b454aca64e1f)
-## Tools 🛠️
+## Tools 
 ![[Arch]](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +26,8 @@ Can do:
 ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) _To be extended_...
 
-## Also I love:
-- Cooking 🍳
-- Snowboarding 🤘🤘 🏂
-- Speaking English 🇬🇧 (I'm native Russian btw.)
+## Interested in:
+- Cooking 🍪
+- Snowboarding 🏂
+- Digital Art 🎨
+
